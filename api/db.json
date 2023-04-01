@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+        "id": 1,
+        "name": "Arsen Yusupov",
+        "number": "996557447807"
+    },
+    {
+        "id": 2,
+        "name": "Aleksandr Piskorsky",
+        "number": "996703564225"
+    },
+    {
+        "id": 3,
+        "name": "Kenan Aliev",
+        "number": "996501491456"
+    }
+  ]
+}
