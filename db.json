@@ -1,19 +1,24 @@
 {
-  "posts": [
+  "contacts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Arsen Yusupov",
+      "number": "996557447807"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Aleksandr Piskorsky",
+      "number": "996703564225"
+    },
+    {
+      "id": 3,
+      "name": "Kenan Aliev",
+      "number": "996501491456"
+    },
+    {
+      "name": " fsfsvd",
+      "number": "996700998866",
+      "id": 4
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
